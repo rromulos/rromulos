@@ -1,4 +1,5 @@
-### Hi there 👋
+### Greetings, I'm Rômulo Santos 👋
+with over 20 years of experience as a software developer. I've always been drawn to challenges, which is what led me to pursue a career in software development. In this role, I am able to convert complex problems into straightforward solutions.
 
  <div>
   <a href="https://github.com/rromulos">
