@@ -15,3 +15,7 @@ Greetings, I'm Rômulo Santos, with over 15 years of experience as a software en
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rromulos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+### Codewars
+
+![image](https://www.codewars.com/users/romulos/badges/small)
